@@ -1,0 +1,85 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: auto;
+        gap: 100px;
+        padding-left: 100px;
+        margin-top: 50px;
+}
+.Addressimg{
+    /* display: flex;
+    align-items: center; */
+    padding-left: 45px;
+}
+
+    .textstyle {
+            font-family: "Poppins", Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.8;
+            font-family: "Poppins", Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.8;
+            font-weight: normal;
+            background: #0c0c0c;
+            color: #666666;
+            text-align: justify;
+    
+        }
+.form-input {
+    width: 40%;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    margin-left: 439px;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+    opacity: 0.18;
+    background-color: gray;
+    margin-top: 10px;
+}
+.formcontainer{
+    margin-top: 60px;
+    margin-left:10px;
+    margin-right: 60px;
+    width: 100%;
+     
+}
+.submit{
+    width: 40%;
+        height: 50px;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-right: 10px;
+        margin-left: 439px;
+        border-radius: 5px;
+        box-sizing: border-box;
+    
+        font-family: "Poppins", Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.8;
+        font-family: "Poppins", Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.8;
+        font-weight: 700;
+    
+        color: #000000;
+        background-color: orange;
+        margin-top: 10px;
+
+}
+
+.textcontainer
+{
+    margin-left: 100px;
+    
+}
+.grid-item{
+    border: 1px solid black;
+}
+
+.form-input::placeholder {
+    color: white;
+}
